@@ -53,8 +53,12 @@ p{
     padding-top: 100px;
 }
 .dream{
-    display: flex
-    ;
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    
 }
 .follow{
     text-decoration: none;
