@@ -91,4 +91,6 @@ p{
     border-image: linear-gradient(cyan green) ;
     border-image-slice:1 ;
 }
-
+footer p{
+    color: blue;
+}
