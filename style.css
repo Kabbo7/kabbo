@@ -69,3 +69,26 @@ p{
     font: 700;
     color: white;
 }
+.experence{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.new-ex{
+    display:flex;
+    margin: 0;
+}    
+.baby{
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 10px 50px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:20px;
+    padding-right: 20px;
+}
+#new-exid{
+    border-left: 7px solid;
+    border-image: linear-gradient(cyan green) ;
+    border-image-slice:1 ;
+}
+
